@@ -1,0 +1,7 @@
+# Files
+*.iml
+
+# Directories
+app/
+node_modules/
+.idea/
